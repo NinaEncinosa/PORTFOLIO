@@ -2,10 +2,10 @@
 I'm currently updating my best projects to inlcude here and developing new ones.
 Here are some of the projects I've made while in college
 
-[POO IN JAVASCRPT](https://ninaencinosa.github.io/INTERFACES/Entregables/2/index.html): Game: "4 in a row" <br/>
+[POO IN JAVASCRPT] (https://ninaencinosa.github.io/INTERFACES/Entregables/2/index.html): Game: "4 in a row" <br/>
 review the code -> https://github.com/NinaEncinosa/INTERFACES/tree/master/Entregables/2
 
-[FRONTEND - SIMPLE PAGE WITH VISUAL EFFECTS](https://ninaencinosa.github.io/INTERFACES/Entregables/3/index.html): Avant premiere "The simpsons" <br/>
+[FRONTEND - SIMPLE PAGE WITH VISUAL EFFECTS] (https://ninaencinosa.github.io/INTERFACES/Entregables/3/index.html): Avant premiere "The simpsons" <br/>
 review the code -> https://github.com/NinaEncinosa/INTERFACES/tree/master/Entregables/3
 
 [ANGULAR] (https://stackblitz.com/github/NinaEncinosa/ANGULAR/tree/main/tienda): Store where you can buy from the stock veggies and add them to a shopping cart.
