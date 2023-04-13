@@ -1,7 +1,7 @@
 # PORTFOLIO
 Here is a list of some of the projects that I've made.
 
-**[BACKEND - GREEDY VS BACKTRACKING] (https://github.com/NinaEncinosa/PROG-III/tree/main/ProgramacionIII/tp4)
+**[BACKEND - GREEDY VS BACKTRACKING] (https://github.com/NinaEncinosa/PROG-III/tree/main/ProgramacionIII/tp4)**
 Given a group of employees, each one with a different company value, split the list in two different groups having the minimal posible value gap between the groups.
 
 **[BACKEND - DFS] (https://github.com/NinaEncinosa/PROG-III/tree/main/ProgramacionIII/tp3)**
