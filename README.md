@@ -1,4 +1,6 @@
 # PORTFOLIO
+I'm currently updating my PORTFOLIO to make it more User Friendly and to include some proyects that I've been working on.
+
 Here is a list of some of the projects that I've made.
 
 **[BACKEND - GREEDY VS BACKTRACKING] (https://github.com/NinaEncinosa/PROG-III/tree/main/ProgramacionIII/tp4)** </br>
