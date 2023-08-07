@@ -20,9 +20,17 @@ review the code -> https://github.com/NinaEncinosa/INTERFACES/tree/master/Entreg
 Avant premiere "The simpsons". </br>
 review the code -> https://github.com/NinaEncinosa/INTERFACES/tree/master/Entregables/3
 
-**[ANGULAR] (https://stackblitz.com/github/NinaEncinosa/ANGULAR/tree/main/tienda)** </br>
+**[ANGULAR]** </br>
+(https://dev-apmdm2z1w-ninaencinosa.vercel.app/login) 
+credentials -> user: admin password: 1234  </br>
+To-Do list where you can add, share, copy, delete or edit a task  </br>
+review the code -> https://github.com/NinaEncinosa/DEV/tree/main/LAMANSYS/FE/todo-list
+
+(https://stackblitz.com/github/NinaEncinosa/ANGULAR/tree/main/tienda)
 Store where you can buy from the stock veggies and add them to a shopping cart. </br>
 review the code -> https://github.com/NinaEncinosa/ANGULAR/tree/main/tienda
+
+
 
 **[MONGODB] (https://github.com/NinaEncinosa/MONGODB)** </br>
 Create and manipulate a DB using MongoDB. </br>
